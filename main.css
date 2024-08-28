@@ -3,18 +3,29 @@ h1 {
   font-family: Arial
 }
 
+
+
 h2 {
   font-size: 25px;
   font-family: Arial
 }
 
+
+
 h3 {
   font-family: Arial
 }
 
+
+
 p {
   font-size: 14px;
   font-family: Arial
+}
+
+div {
+  background-color: blue;
+  text-align: right;
 }
 
 th,
